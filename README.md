@@ -3,7 +3,8 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.<br>
 
 Silakan gunakan format berikut:<br>
-**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
+**\* Putra Febrian, [Github](https://www.github.com/PFerian02).**  
 
 Berikut adalah daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Putra febrian,  [Github](https://www.github.com/PFerian02).
